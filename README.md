@@ -73,14 +73,6 @@ I am a passionate **Computer Science Student** and **Full-Stack Developer** with
 
 ---
 
----
-
-## ⚡ Fun Facts
-- 🔍 My favorite debugger is writing `print()` statements, though I am actively training myself to use real ones!
-- 🧩 I write code to solve problems I face, and then build tools to solve problems other people face.
-- ☕ Powered by caffeine, curiosity, and code.
-
----
 
 ## 📫 Connect With Me
 
