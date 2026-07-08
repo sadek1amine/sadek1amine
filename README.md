@@ -31,15 +31,6 @@ I am a passionate **Computer Science Student** and **Full-Stack Developer** with
 
 ---
 
-## 🚀 Featured Projects
-
-### 💳 [UniPay](https://github.com/Sadek1Amine)
-> **Digital Banking & Financial Management Platform**
-> An advanced digital banking application that enables users to manage their personal finance and transactions.
-- 🔒 **Secure Authentication**: Multi-factor authentication and robust session management.
-- 💸 **Transactions Engine**: Seamless, real-world-like funds transfer and history tracking.
-- 📊 **Dynamic Dashboard**: Full analytics and real-time visualization of account balances and activity.
-- 🤖 **AI Financial Analysis**: Intelligent insights on spending behavior and budget optimization.
 
 ### ❄️ [FrostBudget](https://github.com/Sadek1Amine)
 > **Modern Personal Finance Application**
