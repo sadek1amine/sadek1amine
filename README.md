@@ -75,12 +75,6 @@ I am a passionate **Computer Science Student** and **Full-Stack Developer** with
 
 ---
 
-## 🎯 Goals for 2026
-- 📚 **Publish a research paper** on Machine Learning / Explainable AI (XAI).
-- 💻 **Build and deploy** a robust AI-integrated SaaS application.
-- 🌐 **Deepen knowledge** in Advanced Deep Learning and Computer Vision architectures.
-- 🤝 **Contribute regularly** to open-source packages and projects.
-
 ## ⚡ Fun Facts
 - 🔍 My favorite debugger is writing `print()` statements, though I am actively training myself to use real ones!
 - 🧩 I write code to solve problems I face, and then build tools to solve problems other people face.
