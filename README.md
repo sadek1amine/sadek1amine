@@ -73,27 +73,6 @@ I am a passionate **Computer Science Student** and **Full-Stack Developer** with
 
 ---
 
-## 📊 GitHub Stats & Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadek1Amine&show_icons=true&theme=tokyonight&locale=en" alt="Sadek's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadek1Amine&layout=compact&theme=tokyonight&langs_count=8" alt="Sadek's Top Languages" height="180px" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadek1Amine&theme=tokyonight" alt="Sadek's GitHub Streak" height="180px" />
-</div>
-
-<!-- START_SECTION:ascii_graph -->
-
-```
-
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-
 ---
 
 ## 🎯 Goals for 2026
