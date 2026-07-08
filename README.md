@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="img/banner.png" alt="Sadek Amine Banner" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hey, I'm Sadek Amine</h1>
 <p align="center">
