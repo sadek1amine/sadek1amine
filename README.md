@@ -32,15 +32,6 @@ I am a passionate **Computer Science Student** and **Full-Stack Developer** with
 ---
 
 
-### ❄️ [FrostBudget](https://github.com/Sadek1Amine)
-> **Modern Personal Finance Application**
-> A beautifully designed expense tracking and income management tool to keep your budgets on track.
-- 📈 **Expense & Income Tracking**: Quick logging and categorizing of transactions.
-- 📅 **Budget Planning**: Set monthly budgets and track real-time limits.
-- 🎨 **Modern Responsive UI**: Clean, minimal, and fully interactive interface.
-- 🛠️ **Tech Stack**: Built from the ground up using **React**, **TypeScript**, and **Tailwind CSS**.
-
----
 
 ## 🛠️ Tech Stack & Toolkit
 
